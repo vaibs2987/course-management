@@ -6,7 +6,7 @@ database:
   #port: 3306
   schema: course_management
   username: root
-  password: gyanu@29
+  password: password
   autoconnect:
     maxReconnects: 3
     initialTimeout: 2
